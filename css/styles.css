@@ -22,14 +22,13 @@ body {
   height: 1.5em;
 }
 
-/*
-ul{
-  position:absolute;
-  margin:0;
-  padding:0;
+ul {
+  position: absolute;
+  margin: 0;
+  padding: 0;
 }
 
-li{
+/*li{
   text-align:center;
   display:inline-block;
   list-style:none;
