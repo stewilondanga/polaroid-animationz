@@ -48,11 +48,11 @@ li:hover {
   opacity: 0.5;
 }
 
-/*li:nth-child(1){
-    transform:rotate(10deg);
+li:nth-child(1) {
+  transform: rotate(10deg);
 }
 
-li:nth-child(2){
+/*li:nth-child(2){
     transform:rotate(0deg);
 }
 
