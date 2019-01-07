@@ -43,12 +43,12 @@ li {
   top: 50px;
 }
 
-/*li:hover{
-  top:0px;
-  opacity:0.5;
+li:hover {
+  top: 0px;
+  opacity: 0.5;
 }
 
-li:nth-child(1){
+/*li:nth-child(1){
     transform:rotate(10deg);
 }
 
