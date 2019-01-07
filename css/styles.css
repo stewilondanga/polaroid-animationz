@@ -60,11 +60,11 @@ li:nth-child(3) {
   transform: rotate(-10deg);
 }
 
-/*li:nth-child(4){
-    transform:rotate(20deg);
+li:nth-child(4) {
+  transform: rotate(20deg);
 }
 
-p{
+/*p{
   margin:-15px 0 0 0;
 }
 
