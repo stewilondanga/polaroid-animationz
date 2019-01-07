@@ -64,11 +64,11 @@ li:nth-child(4) {
   transform: rotate(20deg);
 }
 
-/*p{
-  margin:-15px 0 0 0;
+p {
+  margin: -15px 0 0 0;
 }
 
-.light{
+/*.light{
   border-radius:50%;
   position:absolute;
   left:0;
